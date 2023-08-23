@@ -5,8 +5,10 @@ title: Student Blog
 
 
 ## Aashrays Blog 
-I am Aashray. I am taking csp so i can code code code. I enjoy music, games, science, and math
-[Me](https://ca.slack-edge.com/TUDAF53UJ-U05MQST6J5V-5c6a070c7457-192)
+I am Aashray. I am taking csp so i can code code code. I enjoy music, games, science, and math \
+![Me](https://ca.slack-edge.com/TUDAF53UJ-U05MQST6J5V-5c6a070c7457-192) 
+
+This will be my blog/website
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
